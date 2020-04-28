@@ -4,5 +4,5 @@
     "repository": "https://github.com/beltton23/node-js-http",
     "logo": "",
     "keywords": ["node"],
-    "image": "heroku/nodejs"
+    "image": "heroku/nodejs",
 }
